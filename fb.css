@@ -1,0 +1,142 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0%;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 170px;    
+}
+.login-label{
+    color: white;
+    font-size: 11px;    
+}
+.login-control{
+    margin-left: 115px
+}
+.forgotten{
+    color: #fff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-btn{
+    background-color: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background: yellow;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 75px;
+    padding-top: 50px;
+    
+}
+.right-section{
+    width: 50%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white, #d3d8e8);
+    width: 100%;
+    height: 530px;
+}
+.image{
+    width: 720px;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+    color: #29487d;
+}
+.right-section{
+    margin-top:10px;
+    width:390px;
+    text-align:left;
+}
+.heading{
+    margin:0px;
+    font-size:37px;
+    color:#29487d;
+}
+.para1{
+    font-size:18px;
+    color:#29487d;
+}
+.firstname{
+    width:49%;
+}
+.surname{
+    margin-left:2%;
+    width:49%;
+    margin: 25px;
+    margin-top: 10px;
+    width: 100px;
+    padding-right: 30px;
+}
+.email{
+    padding-right: 200px;
+}
+.re-enter{   
+    width: 93%;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+.password{
+    width: 93%;
+    margin-top: 20px;
+}
+.do-I{
+    text-decoration: none;
+    font-size: 10px;
+}
+.gender{
+    font-size: 18px;
+    width: 50%;
+    font-family: Helvetica, Arial, sans-serif;
+    float: 50px;  
+}
+.terms{
+    font-size: 12px;
+    text-decoration: none;
+
+}
+.submit{
+    font-size:18px;
+    background-color: rgb(105, 167, 78);
+    border:1px solid rgb (59, 110, 34); color:white;
+    font-family: Freight Sans Bold;
+    padding: 0px;
+    width : 194px;
+    text-align-last:center;
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-shadow: rgba(0,0,0,0.5) 0px 1px 2px;
+    border-radius: 5px;
+    height: 39px
+
+}
+
